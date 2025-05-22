@@ -3,19 +3,20 @@
 </p>
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Jahirrr</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left"> 👋 Hey there! I'm Jahirrr</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jahirrr -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻  I'm currently part of a development team building a sales CRM for small businesses, using Spring Boot and MySQL as the backend stack. My main focus is backend development with Java, following clean architecture principles and the MVC pattern.
-💡  I'm passionate about learning new technologies and creating practical software solutions that help small businesses go digital.
-🎓  I'm studying Software Analysis and Development, where I deepen my knowledge of object-oriented programming, relational databases, and agile methodologies like Scrum.
-🌱  I'm actively learning about Microservices, best practices with Spring Boot, and exploring modern web development.
-✍️  In my free time, I enjoy practicing programming logic, improving personal projects, and collaborating with fellow developers.
-💬  Feel free to reach out if you'd like to collaborate, exchange ideas, or if you're just getting started with programming and need guidance.
-✉️  You can email me at kevinnveralopez@gmail.com — I'll try to reply as soon as I can.
+👨‍💻 Currently building a sales CRM using Spring Boot and MySQL, focused on backend and clean architecture (MVC).  
+💡 Passionate about learning new technologies and building digital solutions for small businesses.  
+🎓 Studying Software Analysis and Development: OOP, SQL, and agile methodologies (Scrum).  
+🌱 Learning Microservices, Spring Boot best practices, and modern web development.  
+✍️ I practice programming logic, improve personal projects, and collaborate with developers.  
+💬 Open to collaboration, idea exchange, or helping new programmers.  
+✉️ Reach me at kevinnveralopez@gmail.com — I’ll reply as soon as I can.
+
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
